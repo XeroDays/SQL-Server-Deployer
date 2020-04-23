@@ -10,7 +10,7 @@ namespace SQL_Installer.Controllers
     {
         public static List<string> getQueriesFromSQLFile(string[] sqlData)
 	    {
-
+            //test
             if (sqlData.Length > 0 && sqlData[0].Split(' ')[0] == "USE")
             {
                 sqlData[0] = "";
