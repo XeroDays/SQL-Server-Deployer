@@ -9,8 +9,8 @@ or you can install Server Manually but this can deploy database.
 
 # Features:
   - Can Install SQL Server with Configuration File.
-  - Can Deploy Database:
-        -> With Script
-        -> without installing SQL Server Management System
-        -> Deploy to Specific Instance.
-        -> Auto Set Clipboard to the Current SQL Database Connection String.
+  - Can Deploy Database
+     1.  With Script
+     2.  without installing SQL Server Management System
+     3.  Deploy to Specific Instance.
+     4.  Auto Set Clipboard to the Current SQL Database Connection String.
